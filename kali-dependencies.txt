@@ -1,5 +1,5 @@
 apache2
-dnsmasq
+dnsmasq-base
 libssl-dev
 libnfnetlink-dev
 libnl-3-dev
